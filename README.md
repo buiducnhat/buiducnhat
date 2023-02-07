@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buiducnhat" alt="buiducnhat" /></a></p>
 
-- 🌱 I’m currently learning **.NET**
-
 - 👨‍💻 All of my projects are available at [https://buiducnhat.me/projects](https://buiducnhat.me/projects)
 
 - 📝 I regularly write articles on [https://buiducnhat.me/articles](https://buiducnhat.me/articles)
 
-- 💬 Ask me about **NodeJS, Javascript, ReactJS, React Native,...**
+- 💬 Ask me about **NodeJS, Javascript, ReactJS, React Native, .NET, Linux, Docker,...**
 
 - 📫 How to reach me **nhaths4701@gmail.com**
 
