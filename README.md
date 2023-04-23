@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buiducnhat" alt="buiducnhat" /></a></p>
 
-- 👨‍💻 All of my projects are available at [https://buiducnhat.me/projects](https://buiducnhat.me/projects)
+- 👨‍💻 All of my projects are available at [https://buiducnhat.github.io/projects](https://buiducnhat.github.io/projects)
 
-- 📝 I regularly write articles on [https://buiducnhat.me/articles](https://buiducnhat.me/articles)
+- 📝 I regularly write articles on [https://buiducnhat.github.io/articles](https://buiducnhat.github.io/articles)
 
 - 💬 Ask me about **NodeJS, Javascript, ReactJS, React Native, .NET, Linux, Docker,...**
 
