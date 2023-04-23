@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhat</h1>
-<h3 align="center">A passionate developer from Viet Nam</h3>
+<h3 align="center">A passionate Software Engineer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buiducnhat&label=Profile%20views&color=0e75b6&style=flat" alt="buiducnhat" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nhaths4701@gmail.com**
 
-- 📄 Know about my experiences [https://buiducnhat.me/about](https://buiducnhat.me/about)
+- 📄 Know about my experiences [https://buiducnhat.github.io/about](https://buiducnhat.github.io/about)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
