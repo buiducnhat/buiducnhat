@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nhat</h1>
 <h3 align="center">A passionate Software Engineer from Viet Nam</h3>
+<h3 aligh="center">My Homepage: <a href="https://buiducnhat.dev/">https://buiducnhat.dev/</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buiducnhat&label=Profile%20views&color=0e75b6&style=flat" alt="buiducnhat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buiducnhat" alt="buiducnhat" /></a></p>
 
-- 👨‍💻 All of my projects are available at [https://buiducnhat.github.io/projects](https://buiducnhat.github.io/projects)
+- 👨‍💻 All of my projects are available at [https://buiducnhat.dev/projects](https://buiducnhat.dev/projects)
 
-- 📝 I regularly write articles on [https://buiducnhat.github.io/articles](https://buiducnhat.github.io/articles)
+- 📝 I regularly write blogs on [https://buiducnhat.dev/blogs](https://buiducnhat.dev/blogs) and [https://buiducnhat.dev/series](https://buiducnhat.dev/series)
 
-- 💬 Ask me about **NodeJS, Javascript, ReactJS, React Native, .NET, Linux, Docker,...**
+- 📄 Know about my experiences [https://buiducnhat.dev/about](https://buiducnhat.dev/about)
 
 - 📫 How to reach me **nhaths4701@gmail.com**
-
-- 📄 Know about my experiences [https://buiducnhat.github.io/about](https://buiducnhat.github.io/about)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
