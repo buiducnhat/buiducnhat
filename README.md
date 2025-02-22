@@ -8,7 +8,7 @@
   <a href="mailto:nhaths4701@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-buiducnhat@gmail.com-red?logo=gmail&logoColor=white" alt="buiducnhat" /> </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buiducnhat&theme=radical&row=1" alt="buiducnhat" /></a></p>
+![Metrics](https://metrics.lecoq.io/buiducnhat)
 
 <h2 align="left">Support me</h2>
 
