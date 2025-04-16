@@ -5,7 +5,7 @@
   <a href="https://github.com/buiducnhat" target="_blank"><img src="https://komarev.com/ghpvc/?username=buiducnhat&label=Profile%20views&color=0e75b6&style=flat" alt="buiducnhat" /></a>
   <a href="https://www.linkedin.com/in/buiducnhat/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-buiducnhat-0077B5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAb1BMVEUAl717ydz+/v684+3G5/Cy3+r5/P3///8Al72+5O55yNzt9/rh8vf9/v6DzN5zxdrx+fsDmL0sqMje8fbB5e4op8e14OvF5/BpwtgipcWu3em44uy64u3H6PCx3+qBy94Lm7+u3uovqsnE5u/2+/yCV68eAAAAAXRSTlP+GuMHfQAAAGJJREFUGNONzzcSgDAQA0AwYJ0Bk3NO/38jqbEZF6jTFjcnyyI9335DFMQ6JMh18MPGfKMt0xdqNpFgqwDC7AEXHglIMKBS4NiWEYECO9EMqYBDZAM/oeAdDby/PuTcPE7PCePeCSJkzvIGAAAAAElFTkSuQmCC&logoColor=white" alt="buiducnhat" /> </a>
   <a href="https://www.facebook.com/buiducnhat47" target="_blank"><img src="https://img.shields.io/badge/Facebook-buiducnhat47-3b5998?logo=facebook&logoColor=white" alt="buiducnhat" /> </a>
-  <a href="mailto:nhaths4701@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-buiducnhat@gmail.com-red?logo=gmail&logoColor=white" alt="buiducnhat" /> </a>
+  <a href="mailto:nhaths4701@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-nhaths4701@gmail.com-red?logo=gmail&logoColor=white" alt="buiducnhat" /> </a>
 </p>
 
 ![Metrics](github-metrics.svg)
